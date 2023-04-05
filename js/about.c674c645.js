@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkbethelvv"]=self["webpackChunkbethelvv"]||[]).push([[443],{4207:function(e,n,t){t.r(n),t.d(n,{default:function(){return o}});var r=t(3396);const u={class:"row event-cover"};function c(e,n,t,c,v,s){return(0,r.wg)(),(0,r.iD)("div",u)}var v={name:"AboutView"},s=t(89);const a=(0,s.Z)(v,[["render",c]]);var o=a}}]);
-//# sourceMappingURL=about.c674c645.js.map
